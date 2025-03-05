@@ -1,0 +1,17 @@
+ipykernel==6.29.5
+ipywidgets==8.1.5
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+numpy==1.23.5
+pandas==2.2.3
+pennylane==0.40.0
+qiskit==0.40.0
+qiskit-aer==0.11.2
+qiskit-ibmq-provider==0.19.2
+qiskit-terra==0.23.0
+quantum_linear_solvers @ git+https://github.com/anedumla/quantum_linear_solvers@08bf4f6673308568b5654e5d3fde9f8df5d887d7
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.1
+seaborn==0.13.2
+sympy==1.13.3
